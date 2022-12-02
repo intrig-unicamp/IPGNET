@@ -1,4 +1,4 @@
-# In-band Inter Packet Gap Telemetry (IPGNET)
+# Inter-Packet Gap NEtwork Telemetry (IPGNET)
 
 Repository for the IPGNET system
 
