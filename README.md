@@ -1,4 +1,4 @@
-# In-band Inter Packet Gap Telemetry (IPGNET): Unlocking novel network monitoring methods
+# In-band Inter Packet Gap Telemetry (IPGNET)
 
 Repository for the IPGNET system
 
